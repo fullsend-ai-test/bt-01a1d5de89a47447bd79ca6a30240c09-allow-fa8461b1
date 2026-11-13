@@ -10,15 +10,4 @@ tracker:
                 - fullsend-ai/fullsend
                 - fullsend-ai/agents
 runtime: dummy
-agents:
-    - name: needs-review-bot
-      source: harness/needs-review-bot.yaml
-    - name: needs-coder-bot
-      source: harness/needs-coder-bot.yaml
-    - name: needs-triage-bot
-      source: harness/needs-triage-bot.yaml
-    - name: on-label
-      source: harness/on-label.yaml
-    - name: on-review
-      source: harness/on-review.yaml
 mint_url: https://bt-9f892f82-bt-mint.fullsend-ai.workers.dev
