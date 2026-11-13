@@ -19,4 +19,6 @@ agents:
       source: harness/needs-triage-bot.yaml
     - name: on-label
       source: harness/on-label.yaml
+    - name: on-review
+      source: harness/on-review.yaml
 mint_url: https://bt-9f892f82-bt-mint.fullsend-ai.workers.dev
