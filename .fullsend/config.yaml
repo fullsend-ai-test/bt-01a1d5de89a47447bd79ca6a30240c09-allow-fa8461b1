@@ -15,4 +15,6 @@ agents:
       source: harness/needs-review-bot.yaml
     - name: needs-coder-bot
       source: harness/needs-coder-bot.yaml
+    - name: needs-triage-bot
+      source: harness/needs-triage-bot.yaml
 mint_url: https://bt-9f892f82-bt-mint.fullsend-ai.workers.dev
